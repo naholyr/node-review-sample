@@ -13,3 +13,4 @@ var foo = function () {
 hello();
 
 console.log("end of script");
+
