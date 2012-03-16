@@ -12,5 +12,5 @@ var foo = function () {
 
 hello();
 
-console.log("end of script");
 
+console.log("end of script");
